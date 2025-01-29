@@ -10,7 +10,7 @@
 ![example workflow](https://github.com/PQC-standards/Problemas-Relacionados/actions/workflows/notebook-test.yml/badge.svg)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/709a31c79ccc4de6a645580dfdc0253c)](https://app.codacy.com/gh/PQC-standards/Algoritmos-Kyber-KEM/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade) <br>
 ![Python](https://img.shields.io/badge/python-3.8-blue)
-![Versión](https://img.shields.io/badge/versión-1.0.5-blue)
+![Versión](https://img.shields.io/badge/versión-1.0.1-blue)
 ![Última actualización](https://img.shields.io/github/last-commit/PQC-standards/Algoritmos-Kyber-KEM)
 
 
