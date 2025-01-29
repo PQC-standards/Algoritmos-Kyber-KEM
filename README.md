@@ -87,9 +87,8 @@ Una vez completados los pasos de instalación, puedes utilizar los notebooks de 
 
 Desde la interfaz de Jupyter Notebook, navega al directorio donde clonaste este repositorio y selecciona el notebook que deseas explorar:<br>
 
-  - Notebook sobre LattPy para aprender sobre retículos y su implementación en Python.
-  - Notebook sobre problemas relacionados con los retículos, como CVP, SVP, y LWE, explicados paso a paso.
-  - Notebook sobre problemas relacionados con los anillos, como MLWE y RLWE, con implementaciones detalladas.
+  - Notebook sobre algoritmos relacionados con PKE
+  - Notebook sobre algoritmos relacionados con KEM
 
 4. Ejecuta las celdas del notebook:
    
