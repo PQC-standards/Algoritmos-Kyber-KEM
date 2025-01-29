@@ -8,7 +8,10 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/PQC-standards/Algoritmos-Kyber-KEM/main)
 ![example workflow](https://github.com/PQC-standards/Problemas-Relacionados/actions/workflows/notebook-test.yml/badge.svg)
-
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/709a31c79ccc4de6a645580dfdc0253c)](https://app.codacy.com/gh/PQC-standards/Algoritmos-Kyber-KEM/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade) <br>
+![Python](https://img.shields.io/badge/python-3.8-blue)
+![Versión](https://img.shields.io/badge/versión-1.0.5-blue)
+![Última actualización](https://img.shields.io/github/last-commit/PQC-standards/Algoritmos-Kyber-KEM)
 
 
 En este repositorio se encuentran todos los notebooks relativos a los algoritmos de Kyber–KEM. En los cuales se han desarrollado paso a paso los algoritmos de generacion de claves, de cifrado, de descifrado, de encapsulación y de desencapsulación. Todo explicado desde un punto de vista didáctico, con el objetivo de un acercamiento más cercano a la materia.
@@ -31,6 +34,9 @@ El proyecto tiene como objetivo complementar el trabajo de documentación e inve
 
 Los elementos principales del trabajo incluyen:
 - Notebook sobre **Algoritmos relacionados al PKE**
+  -Generación de Claves
+  -Cifrado
+  -Descifrado
 - Notebook sobre **Algoritmos relacionados al KEM**
 
 ## Instalación
