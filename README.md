@@ -34,9 +34,9 @@ El proyecto tiene como objetivo complementar el trabajo de documentación e inve
 
 Los elementos principales del trabajo incluyen:
 - Notebook sobre **Algoritmos relacionados al PKE**
-  -Generación de Claves
-  -Cifrado
-  -Descifrado
+  - Generación de Claves
+  - Cifrado
+  - Descifrado
 - Notebook sobre **Algoritmos relacionados al KEM**
 
 ## Instalación
