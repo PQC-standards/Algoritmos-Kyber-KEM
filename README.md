@@ -32,12 +32,15 @@ Este repositorio contiene los anexos relativos a los algoritmos de Kyber–KEM r
 
 El proyecto tiene como objetivo complementar el trabajo de documentación e investigación que se ha realizado sobre el nuevo estándar del NIST KYBER-KEM de una forma didáctica. De forma que se pueda entender completamente los algoritmos que componen este estándar del NIST.
 
-Los elementos principales del trabajo incluyen:
+El contenido principal del repositorio incluye:
 - Notebook sobre **Algoritmos relacionados al PKE**
   - Generación de Claves
   - Cifrado
   - Descifrado
 - Notebook sobre **Algoritmos relacionados al KEM**
+  - Generación de Claves
+  - Encapsulado
+  - Desencapsulado
 
 ## Instalación
 
